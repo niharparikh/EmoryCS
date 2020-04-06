@@ -1,0 +1,10 @@
+1.	Vietnam -> The_Hollywood_Reporter -> United_States -> Vietnam_War
+2.	John_Travolta -> Television_network -> United_States -> Michael_Jackson
+3.	Smoking_ban -> Television_network -> Warner_Bros. -> Paul_Newman -> Lung_cancer -> Passive_smoking
+4.	Microsoft -> Television_network -> Time_(magazine) -> Personal_computer
+5.	New_York -> Television -> New_York_City
+6.	New_York_City -> Television -> Jon_Stewart -> New_York_Times
+7.	New_Year's_Eve -> Variety_(magazine) -> New_York_City -> Times_Square -> New_Year's_Day
+8.	Trump_Tower_(New_York) -> Television -> New_York_City
+9.	Monday -> The_Hollywood_Reporter -> Friday
+10.	Moon -> Television -> Television_standards_conversion -> Moon

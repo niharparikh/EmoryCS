@@ -1,0 +1,316 @@
+mysql> source npari22-project2-2-d.sql
++-----------------+---------------------+
+| fname           | lname               |
++-----------------+---------------------+
+| Musashimaru     |                     |
+| Carlos          | Acosta              |
+| Pedro           | Adorno              |
+| Daniel          | Aguirre             |
+| Al              | Ahlf                |
+| Francisco       | Alarcón             |
+| Jim             | Alfonso             |
+| Daniel          | Algrant             |
+| Paul D.         | Allen               |
+| Scott           | Allen               |
+| Anthony         | Allison             |
+| Cole            | Andersen            |
+| Adam C.         | Anderson            |
+| Laura           | Andújar             |
+| Miguel          | Antelo              |
+| René            | Aragón              |
+| Jorge           | Armando             |
+| Diego           | Arria               |
+| Juan Carlos     | Arvelo              |
+| Dustin James    | Ashley              |
+| Saúl            | Avila               |
+| Óscar           | Avilés              |
+| Clifford        | Ayers               |
+| Jennifer        | Barker              |
+| Tara            | Barrett             |
+| Katherine       | Beaumier            |
+| Jessie          | Bell                |
+| Paty M.         | Bellott             |
+| Bob             | Bennett             |
+| Robyn K.        | Bennett             |
+| Carin           | Berger              |
+| Jewelle         | Bickford            |
+| Kenny           | Blunt               |
+| Leticia         | Bombardier          |
+| Joseph          | Bondi               |
+| Barry           | Boright             |
+| Maria           | Bosio               |
+| Andres Santiago | Bravo               |
+| John            | Breaux              |
+| Ed              | Breving             |
+| William         | Brier               |
+| Joyce           | Brookhart           |
+| Frederic W.     | Brost               |
+| John            | Brown               |
+| Karl A.         | Brown               |
+| Michael         | Brown               |
+| Jennifer        | Brusciano           |
+| Andrea          | Buhl                |
+| Charles John    | Bukey               |
+| Jeff            | Bullock             |
+| Valerio         | Burroni             |
+| Mike            | Buttry              |
+| Tim             | Cain                |
+| María Cristina  | Calá                |
+| Philip          | Caldwell            |
+| John            | Callery             |
+| Rudy M.         | Camacho             |
+| Alba            | Caraballo           |
+| Jason           | Cardone             |
+| Alejandro       | Carpio              |
+| Lucas McHugh    | Carroll             |
+| Stephen         | Casmier             |
+| Jason           | Cervantes           |
+| Jimmy A.        | Céspedes            |
+| Andrew          | Chavez              |
+| Alice           | Chernault           |
+| Andre           | Chreky              |
+| Craig N.        | Chretien            |
+| Daniel R.       | Christian           |
+| Cecile          | Cinco               |
+| Maria           | Cino                |
+| Heather         | Clapp Date          |
+| Bill            | Clark               |
+| Ross            | Clegg               |
+| Aaron           | Cohen               |
+| Eric            | Collins             |
+| Dina            | Connolly            |
+| Ami             | Copeland            |
+| Eduardo         | Cortés              |
+| Omar            | Cowan               |
+| Nick            | Craig               |
+| Caroline        | Critchfield Hitcher |
+| Frank           | Cullen              |
+| Tom             | Cummins             |
+| James           | Curatola            |
+| Zoraida         | D'Alessandro        |
+| Bayanbat        | Davaadalai          |
+| Thomas R.       | Davis               |
+| Susan           | Dawson              |
+| M. Stephen      | Deem                |
+| Vincent         | Dellacera           |
+| Elon            | Dershowitz          |
+| Hervé           | Deschamps           |
+| Sergio          | Deustua             |
+| Franklin        | Díaz                |
+| Clinton         | Dickey              |
+| Jennifer        | DiStefano           |
+| Linda           | Divall              |
+| Debbie          | Doebereiner         |
+| Diana           | Donaldson           |
+| Ousaun          | Elam                |
+| Eduardo         | Espinosa            |
+| Gregory         | Estevane            |
+| Philip          | Eytan               |
+| Dean            | Faulkner            |
+| Carolyn R.      | Feltner             |
+| Deborah         | Fineman Bozik       |
+| Ben             | Finkelstein         |
+| John C.         | Fiore               |
+| Huey            | Freeman             |
+| Kimber          | Fritz               |
+| Ken             | Frye                |
+| Herman          | Fullard             |
+| Lori            | Galinski            |
+| Mingming        | Gao                 |
+| Ramiro          | Garza Balboa        |
+| Vance           | Gay                 |
+| Scott           | Geres               |
+| Christine       | Gette               |
+| Trevor          | Gibson              |
+| Marshall        | Gilman              |
+| Raúl 'Pitín'    | Gómez               |
+| Rita            | Gomez               |
+| Luis            | Gonzaga Hernandez   |
+| Eydie           | Gormé               |
+| Charles         | Grassley            |
+| Lory            | Gray                |
+| Fernando        | Gutiérrez Vargas    |
+| Tamara          | Haddad              |
+| Steve           | Hai                 |
+| Ronald E.       | Hairston            |
+| Jill            | Hanson              |
+| Brooke          | Harrison            |
+| Anne-Solenne    | Hatte               |
+| Eilzabeth       | Haxthowsen          |
+| Troy            | Hayes               |
+| Heather         | Heimbuch            |
+| Santa Fe Osmin  | Hernandez           |
+| Lorene          | Hetherington        |
+| Thomas          | Hogeland            |
+| Leonora K.      | Hornbeck            |
+| Michael E.      | Horowitz            |
+| Coleman         | Hough               |
+| Steny H.        | Hoyer               |
+| Bryant          | Huffman             |
+| Felix           | Humphry             |
+| Pascal          | Ifri                |
+| Howard I.       | Josephs             |
+| Cathy           | Kades               |
+| Amelie          | Kahn-Ackermann      |
+| Sam             | Kaufman             |
+| Jim             | Kempner             |
+| Steve           | Klapper             |
+| Greg            | Kline               |
+| Tommy           | Kordick             |
+| Khalid          | Koshani             |
+| Bernard         | Kruger              |
+| Thomas R.       | Kuhn                |
+| Sylvia          | Kwon                |
+| Laurie          | Lee                 |
+| David           | Levien              |
+| Stuart          | Levine              |
+| David           | Lindsay             |
+| Joe             | Lockhart            |
+| Julie Y.        | Loeber              |
+| Liddy Paoli     | Lopez               |
+| Jorge Arturo    | Lora                |
+| Kurt D.         | Lott                |
+| Sheridan        | Lowell              |
+| Caitlin         | Lyon                |
+| Karima          | Machehour           |
+| Caithlin        | Madigan             |
+| Madeline        | Mager               |
+| Mike            | Malone              |
+| Gary            | Maloney             |
+| Riccardo        | Manfredi            |
+| Xiomara         | Maradiaga           |
+| Emily           | Marks               |
+| Julie           | Marks               |
+| Larry           | Martinez            |
+| Jennifer        | Mastin              |
+| Wendy           | Mastin              |
+| Noel D.         | Matchett            |
+| Dean E.         | McGillivary         |
+| Brian           | McNeill             |
+| Michael S.      | Meldman             |
+| Joaquín         | Méndez              |
+| Vinicio         | Milani              |
+| Carla           | Milani              |
+| James           | Miler               |
+| William         | Milley              |
+| Justin          | Misch               |
+| Giraldo         | Moisés              |
+| Mónica          | Montoya             |
+| Decker          | Moody               |
+| Flavio          | Morales             |
+| Julio Cesar     | Morales             |
+| Xavier Antonio  | Morales             |
+| Carla           | Mori                |
+| Jeffrey R.      | Morris              |
+| Vernon          | Morris              |
+| Mary            | Mozingo             |
+| Lorenzo Ariel   | Muñoz               |
+| Luis            | Muñoz               |
+| Christina       | Nadeau              |
+| Yevgeniy        | Narovlyanskiy       |
+| Robert          | Neilson             |
+| Don             | Nickles             |
+| Christian       | Nieves              |
+| Jose A.         | Nieves              |
+| Raúl            | Núñez               |
+| David           | Owens               |
+| Luije           | Padrón              |
+| Elizabeth C.    | Paris               |
+| José Julio      | Park                |
+| Erika           | Parys               |
+| Irina V.        | Passmoore           |
+| Nelson          | Peltz               |
+| Antonio         | Peredo              |
+| Charles         | Perla               |
+| Andrew          | Petrotta            |
+| Ashley          | Pimental            |
+| Brittany        | Pimental            |
+| José María      | Piñeda              |
+| Jeff            | Podolsky            |
+| Pliny           | Porter              |
+| Elena           | Potapova            |
+| Cody            | Puckett             |
+| Charlotte       | Puckett             |
+| Shaobo          | Qin                 |
+| Joksan          | Ramos               |
+| Richard         | Reed                |
+| Greg            | Reid                |
+| Jose F.         | Rejas               |
+| Alejandro       | Renteria            |
+| Matthew         | Ribbins             |
+| Naya Tanya      | Rivera              |
+| Michael         | Roberts             |
+| Chance          | Robertson           |
+| Edgardo         | Rodríguez           |
+| Geischglin      | Rojas               |
+| Vismark Tito    | Rojas               |
+| Luis            | Rosario             |
+| Megan           | Rose                |
+| Diego           | Salazar             |
+| Rubén           | Salinas             |
+| Wilder          | Salinas             |
+| Eduard          | Sanjines            |
+| Chris           | Santos              |
+| Carroll         | Schumacher          |
+| Gina            | Scime               |
+| Nathalie        | Seaver              |
+| Wing Tong       | Sheung              |
+| Dennis          | Shields             |
+| Cheng You       | Shin                |
+| Judge LeRoy A.  | Simmons             |
+| Lincoln         | Simonds             |
+| Sukhdev         | Singh               |
+| Wing Kong       | Siu                 |
+| Shane           | Skelton             |
+| Scott           | Smeeks              |
+| K.              | Smith               |
+| Ronn            | Soeda               |
+| María D.        | Sosa                |
+| Jerry Nelson    | Soto                |
+| Peter           | Stader              |
+| Richard         | Steele              |
+| Marvin          | Stein               |
+| Jenel           | Stevens             |
+| Bridget         | Storm               |
+| Lynn            | Struiksma           |
+| Armando         | Suárez Cobián       |
+| Michael         | Sugar               |
+| George Rocky    | Sullivan            |
+| David           | Sutphen             |
+| Vonte           | Sweet               |
+| Abbi            | Talton              |
+| Pelino          | Tarantelli          |
+| Nerissa         | Tedesco             |
+| Freedom         | Tickler             |
+| Andrea          | Tiede               |
+| Siu Man         | Ting                |
+| Steve           | Tomaski             |
+| Joel            | Torres              |
+| Juan Pedro      | Torriente           |
+| Andrew          | Tripp               |
+| Chad            | Tyler               |
+| Chi Keong       | Un                  |
+| Latoyya         | Valteau             |
+| Michael         | Van Der Heijden     |
+| Sally           | Vastola             |
+| Eitán           | Vázquez             |
+| Aarón           | Vega                |
+| Pablo           | Venegas Colón       |
+| Galya           | Vidal               |
+| Victor Angulo   | Villacis            |
+| Miguel          | Villarroel          |
+| Ashlee          | Vingle              |
+| Smokey          | West                |
+| Madison         | Wilkins             |
+| Misty           | Wilkins             |
+| Kim Tak         | Wong                |
+| Kenn            | Wood                |
+| Phyllis         | Workman             |
+| Michi           | Yamato              |
+| Adam Awaiz      | Yaqub               |
+| Lai Fu          | Yim                 |
+| David           | Zambrana            |
+| Peter           | Zizzo               |
+| Bill            | Zollars             |
++-----------------+---------------------+
+310 rows in set (32.85 sec)

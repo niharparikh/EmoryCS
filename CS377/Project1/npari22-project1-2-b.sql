@@ -1,0 +1,6 @@
+/* THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING CODE WRITTEN BY OTHER STUDENTS. Nihar Parikh */
+
+SELECT name, year
+FROM movie, genre
+WHERE genre = "Animation" AND id = mid AND year IN (2011,2012,2013)
+ORDER BY year ASC, name ASC;
